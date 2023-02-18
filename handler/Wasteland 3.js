@@ -1,3 +1,4 @@
+Nucleus Co-op - version 2.1.2
 Hub.Handler.Version = 2; // Released at https://hub.splitscreen.me/ on Wed Mar 23 2022 06:14:52 GMT+0000 (Coordinated Universal Time).
 Hub.Handler.Id = "vvdmfqpnz9uEJ4k3u";
 Hub.Maintainer.Name = "Talos91";
